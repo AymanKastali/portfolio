@@ -1,4 +1,4 @@
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 gem "github-pages", group: :jekyll_plugins
 title: Ayman Kastali
 description: Backend engineer specializing in Python and Go, building scalable APIs, microservices, and cloud-native systems.
