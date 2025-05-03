@@ -2,4 +2,4 @@ remote_theme: pages-themes/minimal@v0.2.0
 logo: /assets/images/profile.png
 gem "github-pages", group: :jekyll_plugins
 title: Ayman Kastali
-description: Backend Engineer
+description: Software Engineer | Back-end Specialist | Python, Go
