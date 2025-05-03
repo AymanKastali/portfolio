@@ -87,31 +87,6 @@ Aleppo University, Aleppo, Syria
 
 ---
 
-## Projects
-
-### **Transforming Retail with Robotics**
-**Tech Stack:** Python, Kotlin, FastAPI, PostgreSQL, Robot's SDK  
-
-A robotics-powered retail assistant designed to enhance customer experience and optimize store workflows by integrating smart automation and real-time interaction.  
-
-The system processes visual and sensor data using robot's SDK to recognize gestures and objects, enabling intuitive human-robot interaction.  
-
-The backend communicates with hardware over an android-based system, ensuring high reliability in live retail environments.  
-
-🔗 [Project Link (LinkedIn)](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-retail-activity-7144975821391265792-TeX8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA)
-
-### **Pepper Telepresence Control System**
-**Tech Stack:** Python, Kotlin, FastAPI, JavaScript, Robot's SDK  
-
-A full-stack telepresence solution designed to enable real-time remote control of the Pepper robot via an intuitive web interface. This system bridges the gap between human input and robotic execution through well-structured RESTful APIs and a responsive frontend.
-
-As the backend developer, I used Python with FastAPI to build modular and scalable APIs for managing robot actions such as movement and speech. The frontend, developed using JavaScript and TypeScript, communicates with the backend by sending HTTP requests, which are processed to trigger corresponding robotic functions.
-
-Kotlin was employed on the robot’s side to interpret and execute backend instructions, enabling Pepper to respond dynamically to user commands. The system allows seamless interaction, where user actions in the interface are reflected instantly by the robot's behavior—creating a responsive and immersive telepresence experience.
-
-🔗 [Project Link (LinkedIn)](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-telepresence-activity-7141031242136825856-NVvS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA)
-
-
 ## Work Experience
 
 ### **Back-end Developer** – KPTAC Technologies 
@@ -134,3 +109,39 @@ Kotlin was employed on the robot’s side to interpret and execute backend instr
 - Developed and maintained high-performance backend services, ensuring scalability and robustness.  
 - Key project: [project description and tech stack].  
 - Technologies: `Python`, `Tensorflow`, `Scikit-Learn`, `OpenCV`, `Pandas`, `NumPy`, `Matplotlib`, `Django`.
+
+---
+
+## Projects
+
+### **Full-Feature Social Media Platform**
+**Tech Stack:** Python, FastAPI, Go, Gin, Django Ninja, RabbitMQ, Redis, PostgreSQL, Cassandra, Neo4j, Docker, gRPC, OpenAI, CLIP, Agora, ELK
+
+Collaborated as part of the backend engineering team to develop a feature-rich social media platform that combines real-time communication, content sharing, and community engagement tools. The application supports functionalities such as video and audio calling, live streaming, messaging, friend/follow systems, dating features, activity discovery, and group participation.
+
+I contributed to designing and implementing scalable microservices using FastAPI and Go (Gin), supported by asynchronous communication with RabbitMQ and real-time data handling via Redis. PostgreSQL, Cassandra, and Neo4j were used in tandem to manage structured, distributed, and graph-based data models efficiently. Services were containerized and orchestrated using Docker, and gRPC was employed for optimized inter-service communication in performance-critical modules.
+
+This modular and scalable architecture enabled us to deliver a highly interactive and reliable user experience across all major social media interaction types.
+
+
+### **Transforming Retail with Robotics**
+**Tech Stack:** Python, Kotlin, FastAPI, PostgreSQL, Robot's SDK  
+
+A robotics-powered retail assistant designed to enhance customer experience and optimize store workflows by integrating smart automation and real-time interaction.  
+
+The system processes visual and sensor data using robot's SDK to recognize gestures and objects, enabling intuitive human-robot interaction.  
+
+The backend communicates with hardware over an android-based system, ensuring high reliability in live retail environments.  
+
+🔗 [Project Link (LinkedIn)](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-retail-activity-7144975821391265792-TeX8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA)
+
+### **Pepper Telepresence Control System**
+**Tech Stack:** Python, Kotlin, FastAPI, JavaScript, Robot's SDK  
+
+A full-stack telepresence solution designed to enable real-time remote control of the Pepper robot via an intuitive web interface. This system bridges the gap between human input and robotic execution through well-structured RESTful APIs and a responsive frontend.
+
+As the backend developer, I used Python with FastAPI to build modular and scalable APIs for managing robot actions such as movement and speech. The frontend, developed using JavaScript, communicates with the backend by sending HTTP requests, which are processed to trigger corresponding robotic functions.
+
+Kotlin was employed on the robot’s side to interpret and execute backend instructions, enabling Pepper to respond dynamically to user commands. The system allows seamless interaction, where user actions in the interface are reflected instantly by the robot's behavior creating a responsive and immersive telepresence experience.  
+
+🔗 [Project Link (LinkedIn)](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-telepresence-activity-7141031242136825856-NVvS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA)
