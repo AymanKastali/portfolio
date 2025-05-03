@@ -2,8 +2,10 @@
 
 ## About Me
 
-I am a backend engineer with over 6 years of experience in designing scalable, efficient, and secure backend systems. Passionate about building production-ready solutions using Python, Golang, and modern cloud-native tools, I specialize in API design, microservices architecture, and DevOps integration to meet the highest standards of performance and security.
-With expertise in Python, Django, and FastAPI, I focus on creating high-performance systems and APIs. Additionally, I am proficient in Golang for developing high-performance microservices. I have a strong background in AI and leverage machine learning and automation to optimize system efficiency. Always eager to learn new technologies, I thrive in dynamic environments, optimizing system architecture and collaborating in cross-functional teams.
+I am a backend engineer with over 6 years of experience in designing scalable, efficient, and secure backend systems.  
+Passionate about building production-ready solutions using Python, Golang, and modern cloud-native tools, I specialize in API design, microservices architecture, and DevOps integration to meet the highest standards of performance and security.  
+With expertise in Python, Django, and FastAPI, I focus on creating high-performance systems and APIs.  
+Additionally, I am proficient in Golang for developing high-performance microservices, and I have a strong background in AI and leverage machine learning and automation to optimize system efficiency.
 
 ---
 
@@ -104,4 +106,4 @@ Aleppo University, Aleppo, Syria
 **Location:** _UAE - Syria_ | **Duration:** _15-11-2019 – present_  
 - Developed and maintained high-performance backend services, ensuring scalability and robustness.  
 - Key project: [project description and tech stack].  
-- Technologies: `Python`, `Tensorflow`, `PyTorch`, `Sciikit-Learn`, `OpenCV`, `Pandas`, `NumPy`, `Matplotlib`, `Django`.
+- Technologies: `Python`, `Tensorflow`, `Scikit-Learn`, `OpenCV`, `Pandas`, `NumPy`, `Matplotlib`, `Django`.
