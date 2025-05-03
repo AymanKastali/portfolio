@@ -87,6 +87,31 @@ Aleppo University, Aleppo, Syria
 
 ---
 
+## Projects
+
+### **Transforming Retail with Robotics**
+**Tech Stack:** Python, Kotlin, FastAPI, PostgreSQL, Robot's SDK  
+
+A robotics-powered retail assistant designed to enhance customer experience and optimize store workflows by integrating smart automation and real-time interaction.  
+
+The system processes visual and sensor data using robot's SDK to recognize gestures and objects, enabling intuitive human-robot interaction.  
+
+The backend communicates with hardware over an android-based system, ensuring high reliability in live retail environments.  
+
+🔗 [Project Link (LinkedIn)](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-retail-activity-7144975821391265792-TeX8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA)
+
+### **Pepper Telepresence Control System**
+**Tech Stack:** Python, Kotlin, FastAPI, JavaScript, Robot's SDK  
+
+A full-stack telepresence solution designed to enable real-time remote control of the Pepper robot via an intuitive web interface. This system bridges the gap between human input and robotic execution through well-structured RESTful APIs and a responsive frontend.
+
+As the backend developer, I used Python with FastAPI to build modular and scalable APIs for managing robot actions such as movement and speech. The frontend, developed using JavaScript and TypeScript, communicates with the backend by sending HTTP requests, which are processed to trigger corresponding robotic functions.
+
+Kotlin was employed on the robot’s side to interpret and execute backend instructions, enabling Pepper to respond dynamically to user commands. The system allows seamless interaction, where user actions in the interface are reflected instantly by the robot's behavior—creating a responsive and immersive telepresence experience.
+
+🔗 [Project Link (LinkedIn)](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-telepresence-activity-7141031242136825856-NVvS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA)
+
+
 ## Work Experience
 
 ### **Back-end Developer** – KPTAC Technologies 
@@ -99,6 +124,8 @@ Aleppo University, Aleppo, Syria
 **Location:** _Dubai, UAE_ | **Duration:** _03-11-2022 – 02-07-2024_  
 - Developed and maintained high-performance backend services, ensuring scalability and robustness.  
 - Key project: [project description and tech stack].  
+- Projects:
+    - https://www.linkedin.com/posts/ayman-kastali_robotics-ai-retail-activity-7144975821391265792-TeX8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA
 - Technologies: `Python`, `Bash`, `OpenCV`, `MediaPipe`, `Linux OS`, `Postgesql`, `FastAPI`, `Django`, `Typescript`, `Vue JS`, `Java`, `Kotlin`.
 
 
