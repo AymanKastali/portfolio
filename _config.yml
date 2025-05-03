@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-logo: /assets/img/profile.jpg
+logo: /assets/images/profile.jpg
 gem "github-pages", group: :jekyll_plugins
 title: Ayman Kastali
 description: Backend Engineer
