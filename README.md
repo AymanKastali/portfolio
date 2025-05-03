@@ -1,3 +1,5 @@
+# Software Engineer
+
 ## About Me
 
 I am a backend engineer with over 6 years of experience in designing scalable, efficient, and secure backend systems. Passionate about building production-ready solutions using Python, Golang, and modern cloud-native tools, I specialize in API design, microservices architecture, and DevOps integration to meet the highest standards of performance and security.
@@ -10,7 +12,7 @@ With expertise in Python, Django, and FastAPI, I focus on creating high-performa
 **Location:** Dubai, UAE  
 **Email:** [aymankastali@gmail.com](mailto:aymankastali@gmail.com)  
 **WhatsApp:** +971 55 595 2741 | **Call:** +971 50 776 2572  
-**LinkedIn:** [/in/ayman-kastali](https://www.linkedin.com/in/ayman-kastali/) | **GitHub:** [/AymanKastali](https://github.com/AymanKastali)
+**LinkedIn:** [ayman-kastali](https://www.linkedin.com/in/ayman-kastali/) | **GitHub:** [AymanKastali](https://github.com/AymanKastali)
 
 ---
 
@@ -36,9 +38,6 @@ Aleppo University, Aleppo, Syria
 ### **Languages**
 - Python
 - Go
-- Java
-- Typescript
-- JavaScript
 - Bash
 - SQL
 
@@ -47,7 +46,6 @@ Aleppo University, Aleppo, Syria
 - Django
 - Django Rest
 - Django Ninja
-- Flask
 - Gin
 - Express
 
@@ -89,14 +87,21 @@ Aleppo University, Aleppo, Syria
 
 ## Work Experience
 
-### **[Job Title]** – [Company Name]  
-**Location:** _[Location]_ | **Duration:** _[Start Date] – [End Date]_  
+### **Back-end Developer** – KPTAC Technologies 
+**Location:** _Dubai, UAE_ | **Duration:** _03-07-2024 – present_  
 - Spearheaded the development and deployment of [specific backend/infra solution], resulting in [measurable impact, e.g., improved API latency by X%].  
 - Led a team of developers in designing and optimizing [microservices/architecture], achieving [milestone].  
-- Technologies: `Python`, `Django`, `AWS`, `Docker`.
+- Technologies: `Python`, `Django`, `FastAPI`, `Docker`, `RabbitMQ`, `gRPC`, `Go`, `Gin`, `Postgresql`, `Neo4j`, `Cassandra`, `Redis`.
 
-### **[Job Title]** – [Previous Company Name]  
-**Location:** _[Location]_ | **Duration:** _[Start Date] – [End Date]_  
+### **Back-end Developer** – Action To Action Robotics and AI  
+**Location:** _Dubai, UAE_ | **Duration:** _03-11-2022 – 02-07-2024_  
 - Developed and maintained high-performance backend services, ensuring scalability and robustness.  
 - Key project: [project description and tech stack].  
-- Technologies: `Go`, `RabbitMQ`, `Cassandra`, `Kubernetes`.
+- Technologies: `Python`, `Bash`, `OpenCV`, `MediaPipe`, `Linux OS`, `Postgesql`, `FastAPI`, `Django`, `Typescript`, `Vue JS`, `Java`, `Kotlin`.
+
+
+### **Python Developer** – Freelance  
+**Location:** _UAE - Syria_ | **Duration:** _15-11-2019 – present_  
+- Developed and maintained high-performance backend services, ensuring scalability and robustness.  
+- Key project: [project description and tech stack].  
+- Technologies: `Python`, `Tensorflow`, `PyTorch`, `Sciikit-Learn`, `OpenCV`, `Pandas`, `NumPy`, `Matplotlib`, `Django`.
