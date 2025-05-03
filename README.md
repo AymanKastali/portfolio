@@ -3,9 +3,9 @@
 ## About Me
 
 I am a backend engineer with over 6 years of experience in designing scalable, efficient, and secure backend systems.  
-Passionate about building production-ready solutions using Python, Golang, and modern cloud-native tools, I specialize in API design, microservices architecture, and DevOps integration to meet the highest standards of performance and security.  
+Passionate about building production-ready solutions using Python, Go, and modern cloud-native tools, I specialize in API design, microservices architecture, and DevOps integration to meet the highest standards of performance and security.  
 With expertise in Python, Django, and FastAPI, I focus on creating high-performance systems and APIs.  
-Additionally, I am proficient in Golang for developing high-performance microservices, and I have a strong background in AI and leverage machine learning and automation to optimize system efficiency.
+Additionally, I am proficient in Go for developing high-performance microservices, and I have a strong background in AI and leverage machine learning and automation to optimize system efficiency.
 
 ---
 
