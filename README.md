@@ -1,11 +1,11 @@
+
 # Software Engineer
 
 ## About Me
 
-I am a backend engineer with over 6 years of experience in designing scalable, efficient, and secure backend systems.  
-Passionate about building production-ready solutions using Python, Go, and modern cloud-native tools, I specialize in API design, microservices architecture, and DevOps integration to meet the highest standards of performance and security.  
-With expertise in Python, Django, and FastAPI, I focus on creating high-performance systems and APIs.  
-Additionally, I am proficient in Go for developing high-performance microservices, and I have a strong background in AI and leverage machine learning and automation to optimize system efficiency.
+I’m a backend engineer with 6+ years of experience designing scalable and secure systems.  
+I specialize in Python, Go, API design, system architecture, microservices, and Linux OS.  
+My focus is on building high-performance systems with Python and Go, while leveraging AI and machine learning to optimize efficiency.
 
 ---
 
@@ -14,7 +14,8 @@ Additionally, I am proficient in Go for developing high-performance microservice
 **Location:** Dubai, UAE  
 **Email:** [aymankastali@gmail.com](mailto:aymankastali@gmail.com)  
 **WhatsApp:** +971 55 595 2741 | **Call:** +971 50 776 2572  
-**LinkedIn:** [ayman-kastali](https://www.linkedin.com/in/ayman-kastali/) | **GitHub:** [AymanKastali](https://github.com/AymanKastali)
+**LinkedIn:** [ayman-kastali](https://www.linkedin.com/in/ayman-kastali/)  
+**GitHub:** [AymanKastali](https://github.com/AymanKastali)
 
 ---
 
@@ -37,11 +38,15 @@ Aleppo University, Aleppo, Syria
 
 ## Technical Skills
 
-### **Languages**
-- Python
-- Go
-- Bash
-- SQL
+### **Primary Languages**
+- **Python**
+- **Go**
+
+### **Additional Programming Languages**
+- **C++**
+- **Java**
+- **Kotlin**
+- **TypeScript**
 
 ### **Frameworks & Libraries**
 - FastAPI
@@ -50,10 +55,10 @@ Aleppo University, Aleppo, Syria
 - Django Ninja
 - Gin
 - Express
+- spring Boot
 
 ### **Databases**
 - PostgreSQL
-- MySQL
 - MongoDB
 - Redis
 - Cassandra
@@ -70,7 +75,6 @@ Aleppo University, Aleppo, Syria
 
 ### **DevOps & Cloud Tools**
 - Docker
-- Kubernetes
 - CI/CD (GitHub Actions, Jenkins)
 - Git
 - Nginx
@@ -89,59 +93,50 @@ Aleppo University, Aleppo, Syria
 
 ## Work Experience
 
-### **Back-end Developer** – KPTAC Technologies 
-**Location:** _Dubai, UAE_ | **Duration:** _03-07-2024 – present_  
-- Spearheaded the development and deployment of [specific backend/infra solution], resulting in [measurable impact, e.g., improved API latency by X%].  
-- Led a team of developers in designing and optimizing [microservices/architecture], achieving [milestone].  
-- Technologies: `Python`, `Django`, `FastAPI`, `Docker`, `RabbitMQ`, `gRPC`, `Go`, `Gin`, `Postgresql`, `Neo4j`, `Cassandra`, `Redis`.
+### Back-end Developer – **KPTAC Technologies**  
+Dubai, UAE | Jul 2024 – Present  
+- Developed a scalable microservices system to support real-time data processing and automation workflows.  
+- Re-architected legacy systems into modular Go-based services using Gin and gRPC for efficient performance.  
+- Built asynchronous, high-performance APIs using FastAPI with solid architecture design based on SOLID principles.  
+- Integrated and managed multiple databases, including PostgreSQL, Cassandra, and Neo4j, for optimized data handling.  
+- Containerized services with Docker and ensured reliability through streamlined orchestration and monitoring.
 
-### **Back-end Developer** – Action To Action Robotics and AI  
-**Location:** _Dubai, UAE_ | **Duration:** _03-11-2022 – 02-07-2024_  
-- Developed and maintained high-performance backend services, ensuring scalability and robustness.  
-- Key project: [project description and tech stack].  
-- Projects:
-    - https://www.linkedin.com/posts/ayman-kastali_robotics-ai-retail-activity-7144975821391265792-TeX8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA
-- Technologies: `Python`, `Bash`, `OpenCV`, `MediaPipe`, `Linux OS`, `Postgesql`, `FastAPI`, `Django`, `Typescript`, `Vue JS`, `Java`, `Kotlin`.
+**Project – Fully-featured Social Media Platform**  
+Designed and implemented scalable microservices using FastAPI and Go for a feature-rich social app. Integrated PostgreSQL, Cassandra, and Neo4j to handle hybrid data, with Dockerized deployments and gRPC inter-service communication.  
 
-
-### **Python Developer** – Freelance  
-**Location:** _UAE - Syria_ | **Duration:** _15-11-2019 – present_  
-- Developed and maintained high-performance backend services, ensuring scalability and robustness.  
-- Key project: [project description and tech stack].  
-- Technologies: `Python`, `Tensorflow`, `Scikit-Learn`, `OpenCV`, `Pandas`, `NumPy`, `Matplotlib`, `Django`.
+**Tech Stack:** `Python`, `Go`, `FastAPI`, `RabbitMQ`, `gRPC`, `Docker`, `PostgreSQL`, `Cassandra`, `Neo4j`, `Redis`, `Agora`, `Elasticsearch`, `Prometheus`, `Grafana`
 
 ---
 
-## Projects
+### Back-end Developer – **Action To Action Robotics and AI**  
+Dubai, UAE | Nov 2022 – Jul 2024  
+- Built backend services for robotic assistants used in retail environments.  
+- Integrated computer vision modules using OpenCV and MediaPipe.  
+- Developed APIs and communication layers between Android hardware and backend systems.
 
-### **Full-Feature Social Media Platform**
-**Tech Stack:** Python, FastAPI, Go, Gin, Django Ninja, RabbitMQ, Redis, PostgreSQL, Cassandra, Neo4j, Docker, gRPC, OpenAI, CLIP, Agora, ELK
+**Project – Retail Robotics Assistant**  
+Created a backend for a robotics assistant using FastAPI, enabling gesture and object recognition via the robot SDK and vision tools.  
+[Project link](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-retail-activity-7144975821391265792-TeX8)
 
-Collaborated as part of the backend engineering team to develop a feature-rich social media platform that combines real-time communication, content sharing, and community engagement tools. The application supports functionalities such as video and audio calling, live streaming, messaging, friend/follow systems, dating features, activity discovery, and group participation.
+**Project – Pepper Telepresence System**  
+Developed a web-based control interface using FastAPI and Kotlin to remotely operate Pepper robot actions and speech.  
+[Project link](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-telepresence-activity-7141031242136825856-NVvS)
 
-I contributed to designing and implementing scalable microservices using FastAPI and Go (Gin), supported by asynchronous communication with RabbitMQ and real-time data handling via Redis. PostgreSQL, Cassandra, and Neo4j were used in tandem to manage structured, distributed, and graph-based data models efficiently. Services were containerized and orchestrated using Docker, and gRPC was employed for optimized inter-service communication in performance-critical modules.
+**Tech Stack:** `Python`, `FastAPI`, `PostgreSQL`, `OpenCV`, `Java`, `Kotlin`, `JavaScript`, `Robot SDK`
 
-This modular and scalable architecture enabled us to deliver a highly interactive and reliable user experience across all major social media interaction types.
+---
 
+### Python Developer – **Freelance**  
+UAE / Syria | Nov 2019 – Present  
+- Delivered multiple backend systems across e-commerce, healthcare, and AI sectors.  
+- Built real-time APIs and batch pipelines using Django, FastAPI, and Celery.  
+- Integrated machine learning models for CV, forecasting, and recommendations.
 
-### **Transforming Retail with Robotics**
-**Tech Stack:** Python, Kotlin, FastAPI, PostgreSQL, Robot's SDK  
+**Key Projects:**  
+- **AI tool:** Developed an AI-powered application using OpenAI APIs with features such as image generation, book creation, and a customizable dashboard for editing and design.  
+- **E-commerce Backend:** Django system with REST APIs and payment integration  
+- **ML Dashboards:** Visual analytics with Plotly, Pandas, and IBM Cognos.
 
-A robotics-powered retail assistant designed to enhance customer experience and optimize store workflows by integrating smart automation and real-time interaction.  
+**Tech Stack:** `Python`, `TensorFlow`, `Scikit-Learn`, `OpenCV`, `Django`, `FastAPI`, `Plotly`, `Pandas`
 
-The system processes visual and sensor data using robot's SDK to recognize gestures and objects, enabling intuitive human-robot interaction.  
-
-The backend communicates with hardware over an android-based system, ensuring high reliability in live retail environments.  
-
-🔗 [Project Link (LinkedIn)](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-retail-activity-7144975821391265792-TeX8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA)
-
-### **Pepper Telepresence Control System**
-**Tech Stack:** Python, Kotlin, FastAPI, JavaScript, Robot's SDK  
-
-A full-stack telepresence solution designed to enable real-time remote control of the Pepper robot via an intuitive web interface. This system bridges the gap between human input and robotic execution through well-structured RESTful APIs and a responsive frontend.
-
-As the backend developer, I used Python with FastAPI to build modular and scalable APIs for managing robot actions such as movement and speech. The frontend, developed using JavaScript, communicates with the backend by sending HTTP requests, which are processed to trigger corresponding robotic functions.
-
-Kotlin was employed on the robot’s side to interpret and execute backend instructions, enabling Pepper to respond dynamically to user commands. The system allows seamless interaction, where user actions in the interface are reflected instantly by the robot's behavior creating a responsive and immersive telepresence experience.  
-
-🔗 [Project Link (LinkedIn)](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-telepresence-activity-7141031242136825856-NVvS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACeMdZ0BvdB-AA3-JDoL-21vpc3xxv-SZvA)
+---
