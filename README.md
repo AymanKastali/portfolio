@@ -133,7 +133,7 @@ UAE / Syria | Nov 2019 – Present
 
 **Key Projects:**  
 - **AI tool:** Developed an AI-powered application using OpenAI APIs with features such as image generation, book creation, and a customizable dashboard for editing and design.  
-- **E-commerce Backend:** Django system with REST APIs and payment integration  
+- **E-commerce Backend:** Django system with REST APIs and payment integration.  
 - **ML Dashboards:** Visual analytics with Plotly, Pandas, and IBM Cognos.
 
 **Tech Stack:** `Python`, `TensorFlow`, `Scikit-Learn`, `OpenCV`, `Django`, `FastAPI`, `Plotly`, `Pandas`
