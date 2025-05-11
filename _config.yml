@@ -2,4 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 logo: /assets/images/profile.png
 gem "github-pages", group: :jekyll_plugins
 title: Ayman Kastali
-description: Backend Developer | Python, Go | FastAPI, Django, Gin | Scalable APIs & Microservices
+description: Backend Engineer | Python, Go | FastAPI, Django, Gin | Building Scalable APIs, Microservices, and High-Performance Systems
+author: Ayman Kastali
+keywords: Backend Developer, Python, Go, Microservices, FastAPI, Django, Scalable Systems, APIs, Software Engineer
