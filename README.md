@@ -101,8 +101,8 @@ Dubai, UAE | Jul 2024 – Present
 - Integrated and managed multiple databases, including PostgreSQL, Cassandra, and Neo4j, for optimized data handling.  
 - Containerized services with Docker and ensured reliability through streamlined orchestration and monitoring.
 
-**Project – Fully-featured Social Media Platform**  
-Designed and implemented scalable microservices using FastAPI and Go for a feature-rich social app. Integrated PostgreSQL, Cassandra, and Neo4j to handle hybrid data, with Dockerized deployments and gRPC inter-service communication.  
+**Key Projects:**  
+- **Fully-featured Social Media Platform:** Designed and implemented scalable microservices using FastAPI and Go for a feature-rich social app. Integrated PostgreSQL, Cassandra, and Neo4j to handle hybrid data, with Dockerized deployments and gRPC inter-service communication.  
 
 **Tech Stack:** `Python`, `Go`, `FastAPI`, `RabbitMQ`, `gRPC`, `Docker`, `PostgreSQL`, `Cassandra`, `Neo4j`, `Redis`, `Agora`, `Elasticsearch`, `Prometheus`, `Grafana`
 
@@ -114,12 +114,11 @@ Dubai, UAE | Nov 2022 – Jul 2024
 - Integrated computer vision modules using OpenCV and MediaPipe.  
 - Developed APIs and communication layers between Android hardware and backend systems.
 
-**Project – Retail Robotics Assistant**  
-Created a backend for a robotics assistant using FastAPI, enabling gesture and object recognition via the robot SDK and vision tools.  
-[Project link](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-retail-activity-7144975821391265792-TeX8)
+**Key Projects:**  
+- **Retail Robotics Assistant:** Created a backend for a robotics assistant using FastAPI, enabling gesture and object recognition via the robot SDK and vision tools.  
+[Project link](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-retail-activity-7144975821391265792-TeX8)  
 
-**Project – Pepper Telepresence System**  
-Developed a web-based control interface using FastAPI and Kotlin to remotely operate Pepper robot actions and speech.  
+- **Pepper Telepresence System:** Developed a web-based control interface using FastAPI and Kotlin to remotely operate Pepper robot actions and speech.  
 [Project link](https://www.linkedin.com/posts/ayman-kastali_robotics-ai-telepresence-activity-7141031242136825856-NVvS)
 
 **Tech Stack:** `Python`, `FastAPI`, `PostgreSQL`, `OpenCV`, `Java`, `Kotlin`, `JavaScript`, `Robot SDK`
